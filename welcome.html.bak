@@ -1,0 +1,108 @@
+<HTML>
+
+<HEAD>
+
+<!-- ******************************************** -->
+<!--               This is all comment            -->
+<!--  This is an example of a Personal Web Page   -->
+<!--  for the department Web, modify the text     -->
+<!--  below, but make sure to leave the makeup    -->
+<!--  tags like <TITLE>, <P>, intact.             -->
+<!-- ******************************************** -->
+
+<TITLE>PERSONAL PAGE OF: YOUR NAME</TITLE>
+
+<!-- ******************************************** -->
+<!--  Replace YOUR NAME in the instruction above  -->
+<!--  by your own name                            -->
+<!-- ******************************************** -->
+
+</HEAD>
+
+<BODY>
+
+<H1 ALIGN=center>MY HOME PAGE</H1>
+
+<B>WELCOME</B><P>
+
+Welcome to my homepage. 
+
+<A href="mailto:my_user_name@upf.es">Mail Me</A> 
+
+<!-- ************************************************************ -->
+<!--  Replace 'my_user_name' in the line above by your username,  -->
+<!--  and change the text 'Mail me', for anything you like.       -->
+<!-- ************************************************************ -->
+
+Type any text you like .....
+
+<P>
+
+Here follows a list of my working papers:
+
+<P>
+
+<A HREF="/cgi-bin/wpauthor?your_name"> My Working Papers</a>
+
+<!-- ************************************************************* -->
+<!--  Replace 'your_name' in the line above by your name. Do not   -->
+<!--  delete the question mark ! People clicking on 'My Working    -->
+<!--  Papers' will then be presented a list of your working papers -->
+<!-- ************************************************************* -->
+
+<P>
+
+<P>
+<A HREF="my-public-files"> My programs and documentation </A>
+<P>
+
+<!-- *************************************************************** -->
+<!--  You can freely change the text 'My programs and documentation' -->
+<!--  'my-public-files' is a directory that should be                -->
+<!--  present inside your 'public_html'. Put text files, computers   -->
+<!--  programs and other files you want to make available in this    -->
+<!--  directory. Clicking on the (modified version of) 'My programs  -->
+<!--  and documentation' files will present a list of files in this  -->
+<!--  directory.                                                     -->
+<!-- ****************************************************************-->
+
+<B>A list of items ...</B> <P>
+   
+<UL>
+   <LI>Item 1
+   <LI>Item 2
+   <LI>Item 3
+   <LI>Item 4
+</UL>
+
+<!-- ************************************************************* -->
+<!--  Change the text after the <LI> tags for anything you like.   -->
+<!--  These text will be present as a list of items in your page.  -->
+<!-- ************************************************************* -->
+
+
+Click on 
+<A href="http://www.econ.upf.es/~your_username/anot.html">Another file</A><P>
+
+<!-- ********************************************************************** -->
+<!-- Change the filename "http://www.econ.upf.es/~your_username/anot.html"  -->
+<!-- , filling in your username. Don't delete the tilde (~) !               -->
+<!-- Clicking on the text "Another file" will then access the page in the   -->
+<!-- file anot.html.                                                        -->
+<!-- ********************************************************************** -->
+
+<HR>
+<A HREF="/main.html"><IMG SRC="/icons/logo.gif" ALIGN=MIDDLE>DEE Home Page</A>
+<A HREF="http://www.upf.es"><IMG SRC="/icons/upfito.gif" ALIGN=MIDDLE>UPF Home Page</A>
+<HR>
+
+<!-- ************************************************************** -->
+<!-- Please leave the last instructions above just as they are      -->
+<!-- ************************************************************** -->
+
+</BODY>
+
+</HTML>
+
+
+
